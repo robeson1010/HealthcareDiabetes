@@ -1,0 +1,25 @@
+
+*** These modified files were found in JOE when it aborted on Thu Mar  6 11:28:38 2025
+*** JOE was aborted by UNIX signal 1
+
+*** File '(Unnamed)'
+/home/staff/xin/Documents/health/.git/COMMIT_EDITMSG
+
+*** File '/home/staff/xin/Documents/health/.git/COMMIT_EDITMSG'
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Your branch is up to date with 'origin/main'.
+#
+# Changes to be committed:
+#	modified:   EDA.ipynb
+#	modified:   EDA_time.ipynb
+#
+
+*** File '* Startup Log *'
+Processing '/etc/joe/editorrc'...
+Processing '/etc/joe/ftyperc'...
+Finished processing /etc/joe/ftyperc
+Finished processing /etc/joe/editorrc
